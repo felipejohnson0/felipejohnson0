@@ -21,7 +21,8 @@ Sou um entusiasta da programação apaixonado por criar coisas incríveis com di
 
 Meu portfolio pessoal, desenvolvido com React, demonstrando minhas habilidades de design e desenvolvimento web.
 
-[Link para o Projeto](#)
+[Link para o meu Portifolio](#)
+[Link para o Projeto](https://visualstreaming.vercel.app/)
 
 ## Contribuições
 
