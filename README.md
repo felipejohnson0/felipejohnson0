@@ -15,15 +15,6 @@ Sou um entusiasta da programação apaixonado por criar coisas incríveis com di
 - Redux
 - Node JS
 
-## Projetos em Destaque
-
-### Portfolio Pessoal 💼
-
-Meu portfolio pessoal, desenvolvido com React, demonstrando minhas habilidades de design e desenvolvimento web.
-
-[Link para o meu Portifolio](#)
-[Link para o Projeto](https://visualstreaming.vercel.app/)
-
 ## Contribuições
 
 Estou sempre aberto a colaborações e sugestões para melhorias nos meus projetos. Se você tiver alguma ideia interessante ou quiser contribuir, fique à vontade para abrir um issue ou um pull request.
@@ -31,7 +22,3 @@ Estou sempre aberto a colaborações e sugestões para melhorias nos meus projet
 ## Contato
 
 Você pode me encontrar no [Instagram](https://www.instagram.com/felipejohnsonn/).  Sinta-se à vontade para entrar em contato para discutir projetos, tecnologias ou apenas para trocar ideias!
-
-## Agradecimentos
-
-Agradeço por conferir meu perfil! Espero que meus projetos possam inspirar ou ajudar de alguma forma. ✨
